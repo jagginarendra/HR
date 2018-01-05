@@ -1,7 +1,7 @@
 package com.practice;
 
 import java.util.Scanner;
-
+// accepted when taking care of range for result variable
 public class CountVowelStrings {
 
     public static void main(String[] args) {
